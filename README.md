@@ -1,7 +1,8 @@
 SublimeText_LightTable_esque_theme
 ==================================
 
-A theme that looks like the one used in the awesome new IDE LightTable
+A theme that looks like the one used in the awesome new IDE LightTable.
+
 Designed to look best with the Soda Skin
 
 ## Clojure
